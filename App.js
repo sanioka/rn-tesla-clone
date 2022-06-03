@@ -12,7 +12,7 @@ export default function App() {
 
       <CarsList />
 
-      <StatusBar style="auto"/>
+      <StatusBar style="dark"/>
     </View>
   );
 }
