@@ -1,6 +1,6 @@
 # rn-tesla-clone
 
-<img alt="Tesla Clone App / Preview" height="338" src="./images/app-preview.gif" title="Tesla Clone App / Preview" width="600"/><br>
+![Tesla Clone App / Preview](./images/app-preview.gif)<br>
 🎥 https://www.youtube.com/watch?v=u-_TnphBb80
 
 <br>
