@@ -5,15 +5,7 @@
 
 ### How to build project
 
-⚽️ Prepare expo environment by https://docs.expo.dev/get-started/installation/
-
-⚽️ `npm install`
-
-⚽️ `expo start` or `npm start`
-
-⚽️ Install Expo app to mobile phone.
-
-⚽️ Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+https://github.com/sanioka/rn-common
 
 ### Сourse author
 
